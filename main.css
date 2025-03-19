@@ -12,6 +12,19 @@ header{
     padding: 1rem 0;
 }
 
+.banner{
+    background-image: url("images/banner.webp");
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+
 nav a{
     color: #333;
     text-decoration: none;
